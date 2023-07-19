@@ -1,3 +1,6 @@
+//tc is O(sqrt(n))
+
+
 #include <stdio.h>
 #include <math.h>
 
